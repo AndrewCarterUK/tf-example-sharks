@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>shark-58.jpg</filename>
+	<path>/home/andrew/Development/Personal/SharkDetect/data/shark-58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>852</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>168</ymin>
+			<xmax>627</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>
